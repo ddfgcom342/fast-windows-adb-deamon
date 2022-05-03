@@ -13,3 +13,7 @@ Simple reconnector for android debug bridge
 3. Enjoy your journey into the world of android development!
 
 ***Before execute file of course you need to connect your phone via USB!***
+
+## How to see log?
+
+All **ADB** log contains in `log.info` file.

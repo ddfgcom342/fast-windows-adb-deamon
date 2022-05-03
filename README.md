@@ -16,4 +16,4 @@ Simple reconnector for android debug bridge
 
 ## How to see log?
 
-All **ADB** log contains in `log.info` file.
+All **ADB connection status** log contains in `log.info` file.

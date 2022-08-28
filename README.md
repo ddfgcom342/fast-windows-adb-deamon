@@ -1,8 +1,6 @@
 # fast-windows-adb-deamon
 Simple reconnector for android debug bridge
 
-> ONLY FOR WINDOWS
-
 ## How it use?
 
 1. Start file "Watch Daemon Util.exe", after this you can see:
